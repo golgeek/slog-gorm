@@ -1,4 +1,4 @@
-module github.com/orandin/slog-gorm
+module github.com/golgeek/slog-gorm
 
 go 1.21.0
 
